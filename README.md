@@ -36,7 +36,7 @@ and `get '/hello/:name'`.
 The first route is familiar looking to us. It returns the string "hello world"
 in the browser when we go to the url. This is an example of static routing,
 which we've seen.
-
+#
 But `get '/hello/:name'` is very different. What's with that `:` in front of
 `name`? This is an example of a `dynamic route`.
 
